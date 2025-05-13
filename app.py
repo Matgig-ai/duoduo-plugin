@@ -19,8 +19,8 @@ def services():
         ],
         "contact": {
             "website": "https://duoduo.fr",
-            "email": "contact@duoduo.fr",
-            "phone": "+33 1 23 45 67 89"
+            "email": "hello@duoduo.fr",
+            "phone": "+33 6 64 11 55 74"
         }
     })
 
