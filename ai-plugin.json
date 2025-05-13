@@ -1,0 +1,18 @@
+
+{
+  "schema_version": "v1",
+  "name_for_human": "Duoduo Services",
+  "name_for_model": "duoduo_services",
+  "description_for_human": "Obtenez des infos sur les services CRO, UX, UI, Shopify et Webflow proposés par Duoduo.",
+  "description_for_model": "Utilise cette API pour récupérer les services proposés par Duoduo et leurs coordonnées de contact.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://YOUR_RENDER_URL/openapi.yaml"
+  },
+  "logo_url": "https://duoduo.fr/logo.png",
+  "contact_email": "contact@duoduo.fr",
+  "legal_info_url": "https://duoduo.fr/mentions-legales"
+}
