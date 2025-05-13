@@ -5,7 +5,7 @@ info:
   description: API pour accéder aux services de Duoduo (CRO, UX, UI, Shopify, Webflow).
   version: '1.0'
 servers:
-  - url: https://YOUR_RENDER_URL
+  - url: https://duoduo-plugin.onrender.com
 paths:
   /services:
     get:
